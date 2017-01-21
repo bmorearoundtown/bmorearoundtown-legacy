@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BMORE Around Town | Dedicated to Bringing you the Best social Event Activities in Baltimore</title>
+<?php include("_includes/functions.php"); ?>
+
+
+</head>
+
+<body id="home">
+
+<div class="min-width">
+	
+    <div id="container">
+    	
+        <?php include("_includes/navigation.php"); ?>
+        
+        <div id="contentcontainer">
+        	
+            <?php include("_includes/sidebar.php"); ?>
+            
+            <div id="content">
+            	
+                
+                	<h1>dedicated to bringing you the best Social Event Activities in Baltimore!</h1>
+                    
+                   <p> Whether you are new to the Baltimore area and would like to meet people, or you are a 
+                   seasoned veteran of the Baltimore social scene, BMORE Around Town will provide you with 
+                   creative social events to unwind after a hard work week.</p>
+                   
+                   <p>With events such as trips to the Orioles' and Ravens' Games, Scavenger Hunts, 
+                   Trivia / Beer Pong / Flip Cup / Poker Tournaments, Happy Hours… there is simply 
+                   something for everyone. So grab a group of friends and register for our upcoming events! 
+				</p>
+                
+                
+                <div class="eventreg">
+                	<h2>Purchase tickets for upcoming events</h2>
+                    
+                    BMORE Around Town, Mothers Federal Hill, and Bud Light have teamed up to bring you the best Preakness Package in town.  Buy your packages today before they are gone!  For complete details go to http://preakness2011.eventbrite.com
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=1576893531&ref=etckt" frameborder="0" height="274" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+                </div>
+                
+                           
+                
+                
+            </div>
+            
+            <div class="clear"></div>
+            
+        </div>
+        
+        <?php include("_includes/footer.php"); ?>
+        
+    </div>
+
+</div>
+
+
+</body>
+</html>

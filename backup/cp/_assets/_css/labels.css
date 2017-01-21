@@ -1,0 +1,25 @@
+body {
+	font-family: Helvetica, Verdana, sans-serif;      margin: 0;
+}
+
+
+div.sheet {
+	margin: 0.25in 0;
+	height: 11in;      width: 8.5in;
+	max-height: 11in;
+	page-break-after: always;
+}
+
+div.label {
+	width: 2.025in; /* plus .6 inches from padding */
+	height: .975in; /* plus .125 inches from padding */
+	padding: .125in .3in 0 .3in;
+	margin-right: .0625in; /* the gutter */
+	float: left;
+	overflow: hidden;
+}
+
+div.label strong {
+	display: block;
+	padding-bottom: 0.25em;
+}
